@@ -1,0 +1,2 @@
+# linux
+mi primer linux :)
